@@ -35,6 +35,7 @@ Instagram Helper 是一個 Node.js 應用程式，幫助你追蹤 Instagram 追�
    ```
    DS_USER_ID=你的_ds_user_id
    SESSION_ID=你的_session_id
+   X_IG_APP_ID=the_x_ig_app_id_from_instagram
    ```
 
 ## 獲取 Instagram 憑證
@@ -68,7 +69,7 @@ Instagram Helper 是一個 Node.js 應用程式，幫助你追蹤 Instagram 追�
 ```
 DS_USER_ID=你的_ds_user_id
 SESSION_ID=你的_session_id
-X_IG_APP_ID=X-IG-App-ID
+X_IG_APP_ID=the_x_ig_app_id_from_instagram
 ```
 
 注意：請小心這些憑證，切勿公開分享。

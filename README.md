@@ -35,6 +35,7 @@ Before you begin, ensure you have met the following requirements:
    ```
    DS_USER_ID=your_ds_user_id
    SESSION_ID=your_session_id
+   X_IG_APP_ID=the_x_ig_app_id_from_instagram
    ```
 
 ## Getting Instagram Credentials
@@ -64,6 +65,12 @@ You can refer to this video to get the credentials: [Get Instagram X-IG-App-ID a
 6. Copy these values.
 
 After obtaining the credentials using either method, use them in your `.env` file:
+
+```
+DS_USER_ID=your_ds_user_id
+SESSION_ID=your_session_id
+X_IG_APP_ID=the_x_ig_app_id_from_instagram
+```
 
 Note: Be cautious with these credentials and never share them publicly.
 
